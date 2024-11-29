@@ -1,0 +1,18 @@
+[
+  {
+    "title": "TestBook2",
+    "author": "TestAuthor2"
+  },
+  {
+    "title": "TestBookYearBiggerThat2000",
+    "author": "Aldous Huxley"
+  },
+  {
+    "title": "Test Book Without Author",
+    "author": ""
+  },
+  {
+    "title": "Test Book",
+    "author": "Test author"
+  }
+]
